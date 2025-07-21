@@ -172,3 +172,23 @@ body {
     color: #088178;
     background-color: #fbd2db;
 }
+
+#feature .fe-box:nth-child(2) h6 {
+    background-color: hsl(150, 86%, 69%);
+}
+
+#feature .fe-box:nth-child(3) h6 {
+    background-color: hsl(77, 86%, 75%);
+}
+
+#feature .fe-box:nth-child(4) h6 {
+    background-color: #9de7e7;
+}
+
+#feature .fe-box:nth-child(5) h6 {
+    background-color: #eca2b2;
+}
+
+#feature .fe-box:nth-child(6) h6 {
+    background-color: #ffd5ac;
+}
